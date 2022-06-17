@@ -7,6 +7,9 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![image](https://user-images.githubusercontent.com/107578591/174335797-80d5601a-d719-45d7-a10f-01ea3ed9bb18.png)
 
+# Starter Project
+My starter project ...
+
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
