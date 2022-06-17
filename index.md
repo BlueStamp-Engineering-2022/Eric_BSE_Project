@@ -25,3 +25,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 My starter project is the useless machine.
+https://www.youtube.com/watch?v=lgbKN82H8b4
