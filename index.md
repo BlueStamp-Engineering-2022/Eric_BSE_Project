@@ -24,5 +24,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 My starter project w
-[![Alt text](https://img.youtube.com/watch?v=lgbKN82H8b4/0.jpg)](https://www.youtube.com/watch?v=lgbKN82H8b4)
-https://www.youtube.com/watch?v=lgbKN82H8b4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lgbKN82H8b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
