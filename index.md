@@ -23,5 +23,5 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
 # Starter Project
-My starter project w
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lgbKN82H8b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+My starter project was the useless machine. 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lgbKN82H8b4" target="_blank"><img src="http://img.youtube.com/vi/lgbKN82H8b4/0.jpg" alt="Starter Project" width="240" height="180" border="10" /></a>
