@@ -1,4 +1,4 @@
-﻿# Color Candy Sorter
+﻿# Color Candy Sorter (WEBSITE WIP, WILL FINISH BY SATURDAY (7/23) OR SUNDAY (7/24)
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
