@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Eric Zhu | Carlmont High School| Electrical Engineering | Incoming Senior
+| Eric | Carlmont High School| Electrical Engineering | Incoming Senior
 
 ![image](https://user-images.githubusercontent.com/107578591/174335797-80d5601a-d719-45d7-a10f-01ea3ed9bb18.png)
   
